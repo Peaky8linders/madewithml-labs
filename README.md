@@ -1,2 +1,2 @@
 # madewithml-labs
-Lessons from https://madewithml.com/
+Solutions to lessons from https://madewithml.com/
